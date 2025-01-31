@@ -1,2 +1,1 @@
-hello this is kratika.txt
-and this is git class
+im a student
